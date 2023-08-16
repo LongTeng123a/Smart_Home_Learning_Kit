@@ -46,7 +46,7 @@ https://www.lontentech.com/
 
 Business customers please contact us through the following email address:
 
-info@raspberrypicase.cn
+Info@lontentech.com
 
 ### Copyright
 
