@@ -34,7 +34,7 @@ LONTEN provides free and quick customer support. Including but not limited to:
 
 Please send an email to:
 
-info@raspberrypicase.cn or lonten3@qq.com
+lonten3@qq.com Or Info@lontentech.com
 
 We will reply to you within one working day.
 
