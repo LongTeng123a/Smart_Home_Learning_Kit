@@ -3,7 +3,7 @@
 
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
 
-https://github.com/LontenTechnology/Smart_Home_Learning_Kit
+https://github.com/LontenTechnology/Smart_Home_Learning_Kit_LTARK_1
 
 <img src='Picture/Smart-Home-Kit-for-Arduino.jpg' width='100%'/>
 
@@ -13,7 +13,7 @@ https://github.com/LontenTechnology/Smart_Home_Learning_Kit
 
 	Run following command to download all the files in this repository.
 
-	`git clone https://github.com/LontenTechnology/Smart_Home_Learning_Kit.git`
+	`git clone https://github.com/LontenTechnology/Smart_Home_Learning_Kit_LTARK_1.git`
 
 * **Manually download in browser**
 
