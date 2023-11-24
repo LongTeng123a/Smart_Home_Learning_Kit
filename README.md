@@ -1,4 +1,4 @@
-## Smart_Home_Learning_Kit
+## Smart_Home_Learning_Kit_LTARK_1
 >A smart home for Arduino
 
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
